@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "Virat Kohli",
+        "country": "India",
+        "img": "https://i.postimg.cc/gj8KHqrF/image.png",
+        "role": "Batsman",
+        "bat_type": "Right-hand",
+        "bowl_type": "N/A",
+        "price": 8000000
+    },
+    {
+        "id": 2,
+        "name": "Pat Cummins",
+        "country": "Australia",
+        "img": "https://i.postimg.cc/NM1yNN84/image.png",
+        "role": "Bowler",
+        "bat_type": "Right-hand",
+        "bowl_type": "Right-arm fast",
+        "price": 7000000
+    },
+    {
+        "id": 3,
+        "name": "Jos Buttler",
+        "country": "England",
+        "img": "https://i.postimg.cc/Wz51KxdM/image.png",
+        "role": "Wicketkeeper",
+        "bat_type": "Right-hand",
+        "bowl_type": "N/A",
+        "price": 5500000
+    },
+    {
+        "id": 4,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "img": "https://i.postimg.cc/xTdCHjZg/image.png",
+        "role": "Batsman",
+        "bat_type": "Right-hand",
+        "bowl_type": "N/A",
+        "price": 4200000
+    },
+    {
+        "id": 5,
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "img": "https://i.postimg.cc/vm5HM418/image.png",
+        "role": "Bowler",
+        "bat_type": "Right-hand",
+        "bowl_type": "Right-arm legbreak",
+        "price": 4500000
+    },
+    {
+        "id": 6,
+        "name": "Ben Stokes",
+        "country": "England",
+        "img": "https://i.postimg.cc/0jy8pZVr/image.png",
+        "role": "All-rounder",
+        "bat_type": "Left-hand",
+        "bowl_type": "Right-arm fast-medium",
+        "price": 5500000
+    },
+    {
+        "id": 7,
+        "name": "Jasprit Bumrah",
+        "country": "India",
+        "img": "https://i.postimg.cc/7htqX7R9/image.png",
+        "role": "Bowler",
+        "bat_type": "Right-hand",
+        "bowl_type": "Right-arm fast",
+        "price": 5500000
+    },
+    {
+        "id": 8,
+        "name": "David Warner",
+        "country": "Australia",
+        "img": "https://i.postimg.cc/zD2NsCdS/image.png",
+        "role": "Batsman",
+        "bat_type": "Left-hand",
+        "bowl_type": "N/A",
+        "price": 4500000
+    },
+    {
+        "id": 9,
+        "name": "Shaheen Afridi",
+        "country": "Pakistan",
+        "img": "https://i.postimg.cc/TPcMCgLb/image.png",
+        "role": "Bowler",
+        "bat_type": "Left-hand",
+        "bowl_type": "Left-arm fast",
+        "price": 6000000
+    },
+    {
+        "id": 10,
+        "name": "Glenn Maxwell",
+        "country": "Australia",
+        "img": "https://i.postimg.cc/TwqJkjqg/image.png",
+        "role": "All-rounder",
+        "bat_type": "Right-hand",
+        "bowl_type": "Right-arm off-break",
+        "price": 6000000
+    },
+    {
+        "id": 11,
+        "name": "Rachin Ravindra",
+        "country": "New Zealand",
+        "img": "https://i.postimg.cc/fLrRQpKN/image.png",
+        "role": "All-rounder",
+        "bat_type": "Left-hand",
+        "bowl_type": "Left-arm orthodox",
+        "price": 4000000
+    },
+    {
+        "id": 12,
+        "name": "Mustafizur Rahman",
+        "country": "Bangladesh",
+        "img": "https://i.postimg.cc/mkW2rM0X/image.png",
+        "role": "Bowler",
+        "bat_type": "Left-hand",
+        "bowl_type": "Left-arm fast-medium",
+        "price": 4000000
+    },
+    {
+        "id": 13,
+        "name": "Shubman Gill",
+        "country": "India",
+        "img": "https://i.postimg.cc/d1Y127zn/image.png",
+        "role": "Batsman",
+        "bat_type": "Right-hand",
+        "bowl_type": "N/A",
+        "price": 2500000
+    },
+    {
+        "id": 14,
+        "name": "Sam Curran",
+        "country": "England",
+        "img": "https://i.postimg.cc/RCGFtZGQ/image.png",
+        "role": "All-rounder",
+        "bat_type": "Left-hand",
+        "bowl_type": "Left-arm medium-fast",
+        "price": 2200000
+    },
+    {
+        "id": 15,
+        "name": "Towhid Hridoy",
+        "country": "Bangladesh",
+        "img": "https://i.postimg.cc/ncPhdSyX/image.png",
+        "role": "Batsman",
+        "bat_type": "Right-hand",
+        "bowl_type": "N/A",
+        "price": 1500000
+    },
+    {
+        "id": 16,
+        "name": "Ruturaj Gaikwad",
+        "country": "India",
+        "img": "https://i.postimg.cc/7ZJYjM4m/image.png",
+        "role": "Batsman",
+        "bat_type": "Right-hand",
+        "bowl_type": "N/A",
+        "price": 1800000
+    },
+    {
+        "id": 17,
+        "name": "Rahmanullah Gurbaz",
+        "country": "Afghanistan",
+        "img": "https://i.postimg.cc/9MbWyLPF/image.png",
+        "role": "Wicketkeeper",
+        "bat_type": "Right-hand",
+        "bowl_type": "N/A",
+        "price": 1500000
+    },
+    {
+        "id": 18,
+        "name": "Shimron Hetmyer",
+        "country": "West Indies",
+        "img": "https://i.postimg.cc/nrwpPMwy/image.png",
+        "role": "Batsman",
+        "bat_type": "Left-hand",
+        "bowl_type": "N/A",
+        "price": 1200000
+    }
+]
